@@ -1,0 +1,8 @@
+{
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "rebel-core.js",
+  "format": "es6",
+  "registry": "jspm"
+}
